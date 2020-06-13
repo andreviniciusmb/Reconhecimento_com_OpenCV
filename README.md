@@ -2,7 +2,7 @@
 
 ## Obs: Projeto em andamento
 
-Repositório com o intuito de auxiliar o aplicativo proposto no projeto da Hackthon CCR. Utilizaremos a biblioteca OpenCV para capturar os movimentos do usuário e verificar se a posição do usuário está correta para o exercício apresentado no aplicativo.
+Repositório com o intuito de auxiliar o aplicativo proposto no projeto da Hackthon CCR. Utilizaremos a biblioteca OpenCV para capturar os movimentos do usuário através da webcam, e verificar se a posição do usuário está correta para o exercício apresentado no aplicativo.
 
 ## Feitos:
 <ul>
