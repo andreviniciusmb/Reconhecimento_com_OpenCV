@@ -25,8 +25,8 @@ Vale ressaltar que o projeto se encontra em desenvolvimento, e o que foi desenvo
 
 ## Sobre o Projeto
 
-Foi desenvolvido por André Vinícius para apresentação na Hackathon da CCR 2020.
-Equipe 317: 
+Foi desenvolvido por André Vinícius para apresentação no Hackathon da CCR 2020.
+Equipe 317: B.E.M - Boleia em Movimento: 
 <ul>
   <li><a href='https://www.linkedin.com/in/andre-vinicius-mendes-barros-800410195/'> André Vinícius</a></li>
   <li><a href='https://www.linkedin.com/in/cristiane-f-silva-florin-ba516a34/'> Cristiane Florin</a></li>
