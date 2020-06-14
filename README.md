@@ -6,7 +6,7 @@ Repositório com o intuito de auxiliar o aplicativo proposto no projeto da Hackt
 
 ## Feitos:
 <ul>
-  <li>Consegue identificar mãos e rosto</li>
+  <li>Consegue identificar mão e rosto</li>
 </ul>
 
 ## Próximos passos:
